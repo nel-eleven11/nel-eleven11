@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hola 👋
+
+# Soy estudiante de Ingeniería en Ciencias de la Computación y Tecnologías de la Información en la UVG de Guatemala
+# 3° año de carrera
 
 <!--
 **nel-eleven11/nel-eleven11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
